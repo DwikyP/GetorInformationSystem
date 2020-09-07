@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\bin\Debug\Getor Management Systme.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\bin\Debug\Getor Management Systme.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\bin\Debug\Getor Management Systme.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\bin\Debug\Getor Management Systme.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor_Management_Systme.mdiParent.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor_Management_Systme.Insert.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor_Management_Systme.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 4\Visual Programming\Getor Management Systme\Getor Management Systme\obj\Debug\Getor Management Systme.pdb
